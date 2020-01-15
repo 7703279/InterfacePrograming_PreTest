@@ -1,0 +1,19 @@
+
+.container
+{
+    width: 400px;
+    height:400px;
+    background-color: aqua;
+    margin-right: 50px;
+    margin-left:550px;
+
+}
+h2
+{
+    text-align: center;
+}
+h3
+{
+    font-size: smaller;
+    margin-left: 20px;
+}
